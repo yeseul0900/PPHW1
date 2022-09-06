@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="330e5187-1db1-473a-8f8a-4e03ded1cba4" name="Changes" comment="make WordCRUD">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Word/WordManager.java" afterDir="false" />
+    <list default="true" id="330e5187-1db1-473a-8f8a-4e03ded1cba4" name="Changes" comment="틀을 만듬">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Word/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Word/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Word/WordCRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Word/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,10 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -54,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662470040376</updated>
-      <workItem from="1662470043415" duration="2581000" />
+      <workItem from="1662470043415" duration="3423000" />
     </task>
     <task id="LOCAL-00001" summary="make interface">
       <created>1662473944481</created>
@@ -70,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662474119440</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="틀을 만듬">
+      <created>1662476138758</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662476138758</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="make interface" />
     <MESSAGE value="make WordCRUD" />
-    <option name="LAST_COMMIT_MESSAGE" value="make WordCRUD" />
+    <MESSAGE value="틀을 만듬" />
+    <option name="LAST_COMMIT_MESSAGE" value="틀을 만듬" />
   </component>
 </project>
