@@ -1,6 +1,7 @@
 package org.Word;
 
 public class Word {
+
     //멤버변수
     private int id;
     private int level;
@@ -50,4 +51,12 @@ public class Word {
     public void setMeaning(String meaning) {
         this.meaning = meaning;
     }
+    @Override
+    public String toString() {
+        String star = "";
+        for(int i = 0; i<level; i++) star +="*";
+        String str = String.format("%-3s", star)+String.format("%15s",word)+"  "+meaning ;
+        return str;
+    }
+
 }
