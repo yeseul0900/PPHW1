@@ -7,11 +7,11 @@
 * * *
 ## 구현되어 있는항목
 ### 4. 단어 추가  
-><img width="256" alt="image" src="https://github.com/yeseul0900/PPHW1/blob/master/screenshot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-09-07%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.46.41.png?raw=true">
-<img width="256" alt="image" src="https://github.com/yeseul0900/PPHW1/blob/master/screenshot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-09-07%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.46.54.png?raw=true">
+><img width="300" alt="image" src="https://github.com/yeseul0900/PPHW1/blob/master/screenshot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-09-07%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.46.41.png?raw=true">
+><img width="300" alt="image" src="https://github.com/yeseul0900/PPHW1/blob/master/screenshot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-09-07%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.46.54.png?raw=true">
 ### 1. 모든 단어보기   
-><img width="512" alt="image" src="https://github.com/yeseul0900/PPHW1/blob/master/screenshot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-09-07%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.46.47.png?raw=true">
-><img width="512" alt="image" src="https://github.com/yeseul0900/PPHW1/blob/master/screenshot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-09-07%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.47.00.png?raw=true">
+><img width="300" alt="image" src="https://github.com/yeseul0900/PPHW1/blob/master/screenshot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-09-07%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.46.47.png?raw=true">
+><img width="300" alt="image" src="https://github.com/yeseul0900/PPHW1/blob/master/screenshot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-09-07%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.47.00.png?raw=true">
 ### 0. 나가기   
-><img width="512" alt="image" src="https://github.com/yeseul0900/PPHW1/blob/master/screenshot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-09-07%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.47.07.png?raw=true">
+><img width="300" alt="image" src="https://github.com/yeseul0900/PPHW1/blob/master/screenshot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-09-07%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.47.07.png?raw=true">
 
