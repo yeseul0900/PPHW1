@@ -27,7 +27,10 @@ public class WordManager {
     public void start(){
         while(true){
             int menu = selectMenu();
-            if(menu == 0) break;
+            if(menu == 0) {
+                System.out.println("\n프로그램 종료! 다음에 만나요~");
+                break;
+            }
             if(menu == 4){
                 //create
                 wordCRUD.addWord();
