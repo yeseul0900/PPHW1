@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="330e5187-1db1-473a-8f8a-4e03ded1cba4" name="Changes" comment="4번 구현">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Word/Word.java" afterDir="false" />
+    <list default="true" id="330e5187-1db1-473a-8f8a-4e03ded1cba4" name="Changes" comment="1번 4번 구현">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/Word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Word/WordCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Word/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662470040376</updated>
-      <workItem from="1662470043415" duration="6256000" />
+      <workItem from="1662470043415" duration="6504000" />
     </task>
     <task id="LOCAL-00001" summary="make interface">
       <created>1662473944481</created>
@@ -95,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662477013299</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1번 4번 구현">
+      <created>1662481013467</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662481013467</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +121,8 @@
     <MESSAGE value="make WordCRUD" />
     <MESSAGE value="틀을 만듬" />
     <MESSAGE value="4번 구현" />
-    <option name="LAST_COMMIT_MESSAGE" value="4번 구현" />
+    <MESSAGE value="1번 4번 구현" />
+    <option name="LAST_COMMIT_MESSAGE" value="1번 4번 구현" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
