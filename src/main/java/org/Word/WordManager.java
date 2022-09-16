@@ -42,6 +42,7 @@ public class WordManager {
             }
             if(menu == 3){
                 // 단어검색
+                wordCRUD.searchWord();
             }
             if(menu == 4){
                 //단어추가
