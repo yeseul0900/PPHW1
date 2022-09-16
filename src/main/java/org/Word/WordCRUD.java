@@ -15,7 +15,7 @@ public class WordCRUD implements ICRUD{
     @Override
     public Object add() {
         //입력 구현
-        System.out.print("\n=> 난이도(1,2,3) & 새 단어 입력 : ");
+        System.out.print("=> 난이도(1,2,3) & 새 단어 입력 : ");
         int level = s.nextInt();
         String word = s.nextLine();
         System.out.print("뜻 입력 : ");
@@ -47,30 +47,30 @@ public class WordCRUD implements ICRUD{
 
     }
     public void updateItem() {
-        System.out.print("\n => 수정할 단어 검색 : ");
+        System.out.print("=> 수정할 단어 검색 : ");
         String keyword = s.next();
         ArrayList<Integer> idlist = this.listAll(keyword);
-        System.out.print(" => 수정할 번호 선택 ");
+        System.out.print("=> 수정할 번호 선택 ");
         int number = s.nextInt();
         s.nextLine();
-        System.out.print(" \n=> 뜻 입력 ");
+        System.out.print("=> 뜻 입력 ");
         String meaning = s.nextLine();
         Word word = list.get(idlist.get(number-1));
         word.setMeaning(meaning);
-        System.out.print("단어가 수정되었습니다.");
+        System.out.println("단어가 수정되었습니다!!!");
     }
     public void deleteItem() {
-        System.out.print("\n => 삭제할 단어 검색 : ");
+        System.out.print("=> 삭제할 단어 검색 : ");
         String keyword = s.next();
         ArrayList<Integer> idlist = this.listAll(keyword);
-        System.out.print(" => 삭제할 번호 선택 ");
+        System.out.print("=> 삭제할 번호 선택 ");
         int number = s.nextInt();
         s.nextLine();
         System.out.print("정말로 삭제하실래요?(y/n) ");
         String yn = s.next();
         if(yn.equalsIgnoreCase("y")){
             list.remove((int)idlist.get(number-1));
-            System.out.println("단어가 삭제되었습니다.");
+            System.out.println("단어가 삭제되었습니다!!!");
         }
         else
             System.out.println("취소되었습니다.");
@@ -147,7 +147,7 @@ public class WordCRUD implements ICRUD{
     }
 
     public void searchLevel() {
-        System.out.print("=> 원하는 레벨은? (1~3)");
+        System.out.print("=> 원하는 레벨은? (1~3) ");
         int level = s.nextInt();
         listAll(level);
     }
