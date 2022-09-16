@@ -99,6 +99,18 @@ public class WordCRUD implements ICRUD{
         System.out.println("--------------------------------\n");
         return idlist;
     }
+    public void listAll(int level){
+        int j = 0;
+        System.out.println("\n--------------------------------");
+        for(int i = 0; i<list.size(); i++){
+            int ilevel = list.get(i).getLevel();
+            if(level != ilevel) continue;
+            System.out.print((j+1)+" ");
+            System.out.println(list.get(i).toString());
+            j++;
+        }
+        System.out.println("--------------------------------\n");
+    }
     public void loadFile(){
         int count;
         try (BufferedReader br = new BufferedReader(new FileReader(fname))) {
@@ -132,5 +144,10 @@ public class WordCRUD implements ICRUD{
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+    }
+
+    public void searchLevel() {
+        System.out.print("=> 원하는 레벨은? (1~3)");
+        int level = s.nextInt();
     }
 }

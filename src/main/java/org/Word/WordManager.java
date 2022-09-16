@@ -38,6 +38,7 @@ public class WordManager {
             }
             if(menu == 2){
                 // 수준별 단어보기
+                wordCRUD.searchLevel();
             }
             if(menu == 3){
                 // 단어검색
