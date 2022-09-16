@@ -31,14 +31,30 @@ public class WordManager {
                 System.out.println("\n프로그램 종료! 다음에 만나요~");
                 break;
             }
-            if(menu == 4){
-                //create
-                wordCRUD.addWord();
-            }
             if(menu == 1){
                 // list print
                 wordCRUD.listAll();
             }
+            if(menu == 2){
+                // 수준별 단어보기
+            }
+            if(menu == 3){
+                // 단어검색
+            }
+            if(menu == 4){
+                //create
+                wordCRUD.addWord();
+            }
+            if(menu == 5){
+                wordCRUD.updateItem();
+            }
+            if(menu == 6){
+                wordCRUD.deleteItem();
+            }
+            if(menu == 7){
+                // 파일 저장
+            }
+
         }
     }
 }
