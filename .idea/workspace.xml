@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="330e5187-1db1-473a-8f8a-4e03ded1cba4" name="Changes" comment="파일추가 중간저장">
+    <list default="true" id="330e5187-1db1-473a-8f8a-4e03ded1cba4" name="Changes" comment="파일추가 기능 완료">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Word/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/Word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Word/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/Word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Word/WordManager.java" afterDir="false" />
     </list>
@@ -70,7 +71,7 @@
       <workItem from="1662547516308" duration="5731000" />
       <workItem from="1663033022653" duration="5106000" />
       <workItem from="1663301049645" duration="3590000" />
-      <workItem from="1663334970575" duration="1814000" />
+      <workItem from="1663334970575" duration="2290000" />
     </task>
     <task id="LOCAL-00001" summary="make interface">
       <created>1662473944481</created>
@@ -149,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663334980440</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="파일추가 기능 완료">
+      <created>1663340328085</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663340328085</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +184,8 @@
     <MESSAGE value="make interface" />
     <MESSAGE value="단어 삭제 버그 수정" />
     <MESSAGE value="파일추가 중간저장" />
-    <option name="LAST_COMMIT_MESSAGE" value="파일추가 중간저장" />
+    <MESSAGE value="파일추가 기능 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="파일추가 기능 완료" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

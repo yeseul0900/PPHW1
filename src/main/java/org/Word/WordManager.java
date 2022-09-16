@@ -56,6 +56,7 @@ public class WordManager {
             }
             if(menu == 7){
                 // 파일 저장
+                wordCRUD.saveFile();
             }
 
         }
