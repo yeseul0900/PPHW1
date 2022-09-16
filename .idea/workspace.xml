@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="330e5187-1db1-473a-8f8a-4e03ded1cba4" name="Changes" comment="검색기능 추가">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Word/WordCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Word/WordManager.java" afterDir="false" />
-    </list>
+    <list default="true" id="330e5187-1db1-473a-8f8a-4e03ded1cba4" name="Changes" comment="완성 CRUD" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +66,7 @@
       <workItem from="1662547516308" duration="5731000" />
       <workItem from="1663033022653" duration="5106000" />
       <workItem from="1663301049645" duration="3590000" />
-      <workItem from="1663334970575" duration="3376000" />
+      <workItem from="1663334970575" duration="3463000" />
     </task>
     <task id="LOCAL-00001" summary="make interface">
       <created>1662473944481</created>
@@ -170,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663341373058</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="완성 CRUD">
+      <created>1663342754066</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1663342754066</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +203,8 @@
     <MESSAGE value="파일추가 기능 완료" />
     <MESSAGE value="파일저장 기능 일부분 완료" />
     <MESSAGE value="검색기능 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="검색기능 추가" />
+    <MESSAGE value="완성 CRUD" />
+    <option name="LAST_COMMIT_MESSAGE" value="완성 CRUD" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
