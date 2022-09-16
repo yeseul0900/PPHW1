@@ -64,10 +64,10 @@ public class WordCRUD implements ICRUD{
         System.out.print(" => 삭제할 번호 선택 ");
         int number = s.nextInt();
         s.nextLine();
-        System.out.print("정말로 삭제하실래요?(y/n");
+        System.out.print("정말로 삭제하실래요?(y/n) ");
         String yn = s.next();
         if(yn.equalsIgnoreCase("y")){
-            list.remove(idlist.get(number-1));
+            list.remove((int)idlist.get(number-1));
             System.out.println("단어가 삭제되었습니다.");
         }
         else
