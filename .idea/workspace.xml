@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="330e5187-1db1-473a-8f8a-4e03ded1cba4" name="Changes" comment="단어 수정/ 삭제 기능 추가">
+    <list default="true" id="330e5187-1db1-473a-8f8a-4e03ded1cba4" name="Changes" comment="파일추가 중간저장">
+      <change afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/Word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Word/WordCRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Word/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +53,12 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/target" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +69,8 @@
       <updated>1662470040376</updated>
       <workItem from="1662470043415" duration="6611000" />
       <workItem from="1662547516308" duration="5731000" />
-      <workItem from="1663033022653" duration="5038000" />
+      <workItem from="1663033022653" duration="5106000" />
+      <workItem from="1663301049645" duration="3590000" />
     </task>
     <task id="LOCAL-00001" summary="make interface">
       <created>1662473944481</created>
@@ -126,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663300521651</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="단어 삭제 버그 수정">
+      <created>1663301018401</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663301018401</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,14 +160,16 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="make interface" />
     <MESSAGE value="make WordCRUD" />
     <MESSAGE value="틀을 만듬" />
     <MESSAGE value="4번 구현" />
     <MESSAGE value="1번 4번 구현" />
     <MESSAGE value="0번 스크립트 추가" />
     <MESSAGE value="단어 수정/ 삭제 기능 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="단어 수정/ 삭제 기능 추가" />
+    <MESSAGE value="make interface" />
+    <MESSAGE value="단어 삭제 버그 수정" />
+    <MESSAGE value="파일추가 중간저장" />
+    <option name="LAST_COMMIT_MESSAGE" value="파일추가 중간저장" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

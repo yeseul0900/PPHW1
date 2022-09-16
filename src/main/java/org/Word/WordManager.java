@@ -42,13 +42,15 @@ public class WordManager {
                 // 단어검색
             }
             if(menu == 4){
-                //create
-                wordCRUD.addWord();
+                //단어추가
+                wordCRUD.addItem();
             }
             if(menu == 5){
+                //단어수정
                 wordCRUD.updateItem();
             }
             if(menu == 6){
+                //단어삭제
                 wordCRUD.deleteItem();
             }
             if(menu == 7){
